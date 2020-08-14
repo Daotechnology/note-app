@@ -1,0 +1,15 @@
+.color {
+    color:orangered;
+}
+.othercolor {
+    color:red;
+}
+button.color{
+    background-color: hsl(16, 92%, 50%);
+}
+.titlecolor{
+    color:#fff;
+}
+.right {
+    text-align: right;
+}
